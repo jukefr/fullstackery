@@ -6,3 +6,29 @@
 </div>
 
 a fast prototyping full stack boilerplate for javascript projects
+
+idea:
+
+use containers as "blocks"
+
+that can be picked freely as modules
+
+to create wanted architecture
+
+rough example:
+
+`stack.yml`
+```yml
+database:
+    type: mongo or sql, postgres etc
+backend:
+    type: strapi or express, feathers, gql yoga etc
+frontend:
+    type: next or nuxt etc
+```
+
+which would then generate everything and bootstrap all thats needed to start mvping
+
+modular design also allows easier maintaineance and contributions
+
+must make sure i design it right form the getgo though to not waste time later down the line
