@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jukefr/AnarchyX">
-  <img width="100%;"  src="https://user-images.githubusercontent.com/2154296/112435645-4d0eaf80-8d45-11eb-815c-71fe018ab2b8.png">
+  <img width="100%;"  src="https://user-images.githubusercontent.com/2154296/112846385-49ad5800-90a6-11eb-9418-a9b31846069b.png">
   </a>
   <br>
 </div>
